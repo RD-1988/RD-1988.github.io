@@ -14,11 +14,11 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+title: Ruijia‘s Page
+name: Ruijia‘s Page
+description: This is Ruijia’s personal page.
 
-github: https://github.com/showzeng/Minimalism
+github: https://github.com/RD-1988/RD-1988.github.io
 rss: true
 
 plugins:
