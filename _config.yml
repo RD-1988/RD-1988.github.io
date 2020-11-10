@@ -14,8 +14,8 @@ defaults:
     values:
       image: true
 
-title: Ruijia
-name: Ruijia
+title: ruijia
+name: ruijia
 description: This is Ruijia’s personal page.
 
 github: https://github.com/RD-1988/RD-1988.github.io
